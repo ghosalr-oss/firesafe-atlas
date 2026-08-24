@@ -1,6 +1,6 @@
 # Pilot Region Recommendation — Neil Panchal
 
-**Status: preliminary.** This recommendation is based only on data availability and feasibility. It has not yet incorporated Emma's equity notes or Lauren's environmental context notes, since neither exists in the repo yet as of this writing. The final call on primary region should not be locked until both are reviewed, per the Week 4 study area memo step.
+**Status: conditional pending ethics and environmental review.** Rhea Ghosal has approved Butte County as the conditional Phase 1 pilot region so Week 4 technical work (study area memo, scoring model, scoring weights) can proceed. This is a practical implementation decision based on data availability and feasibility, not a final equity or community endorsement. It has not yet incorporated Emma's equity notes or Lauren's environmental context notes, since neither exists in the repo yet as of this writing. Mapping of the backup region (Mescalero Apache Reservation / Ruidoso) should not begin without a separate ethics, data-governance, and community-context review.
 
 ## The three candidates
 
