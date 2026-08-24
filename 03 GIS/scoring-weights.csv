@@ -1,0 +1,7 @@
+category,weight_percent,plain_english_explanation
+Fire exposure,25,Gets the largest weight because it is the most direct measure of wildfire risk itself: whether an area has burned before or has recent fire activity nearby.
+Environmental stress,20,"Weighted almost as high as fire exposure because dense fuel and drought/heat conditions are what make a fire, if one starts, more severe and harder to control."
+Population exposure,20,"Weighted equally with environmental stress because this project exists to help people, not just map fire physics. This layer reflects how many people live in an area and their relative need for preparedness support."
+Road / evacuation access,15,"Gets a meaningful weight because limited road connectivity was a major factor in how dangerous the 2018 Camp Fire evacuation became. It is weighted below fire exposure and population because it is a secondary, supporting risk factor."
+Emergency-service access,10,"Weighted lower because it depends on incomplete public data (documented hospitals, clinics, and fire stations only), so it should influence the score less than the layers built on stronger data."
+Community assets,10,"Weighted lowest because it is the softest factor of the six: it reflects nearby schools and community facilities, which matter for daily life and shelter potential but are not a direct measure of fire danger."
